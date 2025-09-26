@@ -1,16 +1,16 @@
-🚀 GIỚI THIỆU PHIÊN BẢN MỚI 🚀
+**🚀 GIỚI THIỆU PHIÊN BẢN MỚI 🚀**
+**
+[Windows-Office-Utility]: Tiện ích Hỗ trợ Cài đặt & Tối ưu Windows - Office**
 
-[Windows-Office-Utility]: Tiện ích Hỗ trợ Cài đặt & Tối ưu Windows - Office
-
-Chào mừng bạn đến với phiên bản mới nhất của [Tiện ích Hỗ trợ Cài đặt & Tối ưu Windows - Office] – Bộ công cụ đa năng được thiết kế để đơn giản hóa quá trình cài đặt, bảo trì, sửa lỗi và tối ưu hóa hệ thống Windows cũng như Microsoft Office của bạn.
+Chào mừng bạn đến với phiên bản mới nhất của **[Tiện ích Hỗ trợ Cài đặt & Tối ưu Windows - Office]** – Bộ công cụ đa năng được thiết kế để đơn giản hóa quá trình cài đặt, bảo trì, sửa lỗi và tối ưu hóa hệ thống Windows cũng như Microsoft Office của bạn.
 
 Mục tiêu của tôi là cung cấp một giải pháp một cửa (all-in-one) giúp bạn tiết kiệm thời gian và giải quyết các vấn đề thường gặp trên máy tính cá nhân.
 
-✨ CÁC TÍNH NĂNG NỔI BẬT CỦA TIỆN ÍCH
+**✨ CÁC TÍNH NĂNG NỔI BẬT CỦA TIỆN ÍCH**
 
 Tiện ích này được chia thành ba nhóm chức năng chính, bao gồm tất cả các tác vụ từ cơ bản đến nâng cao:
 
-1. ⚙️ HỆ THỐNG & TỐI ƯU HÓA
+**1. ⚙️ HỆ THỐNG & TỐI ƯU HÓA**
 
     Thiết lập và Tối ưu: Dễ dàng thiết lập Windows lần đầu, tinh chỉnh các thiết lập hiệu năng, và Tắt BitLocker nhanh chóng.
 
@@ -18,7 +18,7 @@ Tiện ích này được chia thành ba nhóm chức năng chính, bao gồm t�
 
     Dọn dẹp Sâu: Công cụ giúp Xóa Bloatware (phần mềm rác cài sẵn) và Dọn dẹp Registry để giữ cho hệ thống luôn sạch sẽ và mượt mà.
 
-2. 💾 SAO LƯU - KHÔI PHỤC & BẢN QUYỀN
+**2. 💾 SAO LƯU - KHÔI PHỤC & BẢN QUYỀN**
 
     Bảo vệ Dữ liệu: Hỗ trợ Sao lưu (Backup) các thành phần quan trọng như WiFi, Dữ liệu Cá nhân, và Driver của hệ thống.
 
@@ -26,7 +26,7 @@ Tiện ích này được chia thành ba nhóm chức năng chính, bao gồm t�
 
     Khôi phục Nhanh: Khả năng Khôi phục Driver từ bản sao lưu, đảm bảo phần cứng hoạt động ổn định.
 
-3. 🛠️ CÀI ĐẶT - TIỆN ÍCH KHÁC
+**3. 🛠️ CÀI ĐẶT - TIỆN ÍCH KHÁC**
 
     Triển khai Phần mềm: Tích hợp tính năng Cài đặt Office và Cài đặt phần mềm thiết yếu khác chỉ trong một giao diện.
 
