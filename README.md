@@ -36,7 +36,7 @@ Tiện ích này được chia thành ba nhóm chức năng chính, bao gồm t�
 
 💡 **LÀM THẾ NÀO ĐỂ BẮT ĐẦU?**
 
-1. Tải xuống tệp `WinOffice-Tool.exe` từ trang **[Tải xuống chính thức][release-link]**.
+1. Tải xuống tệp `Windows-Office-Utility.zip` từ trang **[Tải xuống chính thức][release-link]**.
 2. Hãy mở một **[Issue mới][issue-link]** nếu bạn cần báo lỗi.
 
 ---
