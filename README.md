@@ -2,6 +2,8 @@
 
 **[Windows-Office-Utility]: Tiện ích Hỗ trợ Cài đặt & Tối ưu Windows - Office**
 
+<img width="582" height="536" alt="Image" src="https://github.com/user-attachments/assets/356eae42-3dc5-40bf-9ff5-fdde2fa03a4f" />
+
 Chào mừng bạn đến với phiên bản mới nhất của **[Tiện ích Hỗ trợ Cài đặt & Tối ưu Windows - Office]** – Bộ công cụ đa năng được thiết kế để đơn giản hóa quá trình cài đặt, bảo trì, sửa lỗi và tối ưu hóa hệ thống Windows cũng như Microsoft Office của bạn.
 
 Mục tiêu của tôi là cung cấp một giải pháp một cửa (all-in-one) giúp bạn tiết kiệm thời gian và giải quyết các vấn đề thường gặp trên máy tính cá nhân.
