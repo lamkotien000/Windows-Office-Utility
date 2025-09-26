@@ -1,6 +1,5 @@
 **🚀 GIỚI THIỆU PHIÊN BẢN MỚI 🚀**
-**
-[Windows-Office-Utility]: Tiện ích Hỗ trợ Cài đặt & Tối ưu Windows - Office**
+**[Windows-Office-Utility]: Tiện ích Hỗ trợ Cài đặt & Tối ưu Windows - Office**
 
 Chào mừng bạn đến với phiên bản mới nhất của **[Tiện ích Hỗ trợ Cài đặt & Tối ưu Windows - Office]** – Bộ công cụ đa năng được thiết kế để đơn giản hóa quá trình cài đặt, bảo trì, sửa lỗi và tối ưu hóa hệ thống Windows cũng như Microsoft Office của bạn.
 
