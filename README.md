@@ -47,4 +47,18 @@ Tiện ích này được chia thành ba nhóm chức năng chính, bao gồm t�
 
 👉 Mọi đóng góp và báo lỗi đều được hoan nghênh! Hãy mở một Issue mới nếu bạn phát hiện lỗi hoặc có đề xuất tính năng nào hay ho.
 
-Phát triển bởi Nguyễn Thành Lâm.
+## 🙏 **ĐÓNG GÓP & HỖ TRỢ**
+
+Đây là bản phát hành đầu tiên, vì vậy chắc chắn sẽ có những thiếu sót. Chúng tôi rất hoan nghênh mọi phản hồi:
+
+* **Phát hiện lỗi?** Vui lòng báo cáo chi tiết tại **[Trang Issues](https://github.com/lamkotien000/Windows-Office-Utility/issues)**.
+* **Hỗ trợ trực tiếp:** Kết nối với tôi qua **[Facebook cá nhân](https://www.facebook.com/Aplle421)** nếu bạn có câu hỏi nhanh.
+
+---
+### **Liên hệ với Nhà Phát triển:**
+* 🌐 **GitHub:** [Lamkotien000](https://github.com/lamkotien000)
+* 📘 **Facebook:** [Nguyễn Thành Lâm](https://www.facebook.com/Apple421)
+
+Xin chân thành cảm ơn sự ủng hộ của mọi người!
+
+**Phát triển bởi Nguyễn Thành Lâm.**
